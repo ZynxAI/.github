@@ -1,2 +1,2 @@
 # Hello! We are ZynxAI! 🖐️
-We provide with free Fast AI Inference APIs
+We provide free Fast AI Inference APIs
